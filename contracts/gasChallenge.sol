@@ -28,6 +28,7 @@ contract gasChallenge {
             for (uint i = 0; i < numbers.length; i += 1) {
                 numbers[i] = 0;
             }
+            
     }
 }
 }
